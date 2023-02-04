@@ -1,3 +1,2 @@
-A readme for the shell basics project
-project
-
+# alx-low_level_programming
+0x00. C - Hello, World
