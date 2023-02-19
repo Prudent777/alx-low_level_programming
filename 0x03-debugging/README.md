@@ -1,1 +1,1 @@
-0x03-debugging Project
+Introduction to debugging in C

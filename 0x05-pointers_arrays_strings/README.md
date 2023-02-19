@@ -1,1 +1,1 @@
-Alx courses are easy and cool
+Introduction to Pointers, arrays and strings
