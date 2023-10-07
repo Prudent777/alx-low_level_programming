@@ -19,7 +19,7 @@ track at ALX Africa.
 
 ## Author :
 
-* **Prudent NGAIPERA** <[Prudent777](https://github.com/Prudent777)>
+* **Prudent NGAIPERA-DONG** <[Prudent777](https://github.com/Prudent777)>
 
 ## Acknowledgements :pray:
 
